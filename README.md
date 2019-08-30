@@ -1,2 +1,3 @@
-# Hyperledgerfabric-Airline-App
-A Blockchain Webapp built using Hyperledger Composer and deployed to the instance of Hyperledger Fabric.
+# airline-network
+
+A simple Blockchain app to track and maintain flight status information
